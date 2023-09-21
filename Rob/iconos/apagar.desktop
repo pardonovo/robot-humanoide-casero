@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Apagar
+Comment=Apagar el sistema
+Icon=/home/rob/Rob/iconos/apagado.png
+Exec=python3.9 /home/rob/Rob/apagar.py
+Terminal=false
+Categories=Development
+Name[es_ES]=Apagar
